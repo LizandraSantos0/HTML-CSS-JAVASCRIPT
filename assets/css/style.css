@@ -1,0 +1,39 @@
+/*Estilos da página index.html*/
+
+.center{
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-flow: row;
+    justify-content: flex-start;
+    align-items: center;
+
+}
+
+#menu li {
+    display:inline;
+    padding: 15px;
+}
+
+#menu li a {
+    text-decoration: none;
+    color:brown;
+    font-size: 20px;
+}
+#menu li a:hover {
+    color:crimson;
+
+}
+
+
+
+
+
+
+
+
+/*Estilos da página caracteristicas.html*/
+
+
